@@ -78,7 +78,7 @@ compare_ssim(image, fmedian_gauss, multichannel=True, channel_axis=-1, data_rang
 
 ```
 
-![Sample Image]([https://github.com/snmahsa/myrep/blob/main/output.png](https://github.com/Ulduzpp/DIP/blob/main/Images/photo_2023-08-15_01-32-55.jpg))
+![Sample Image](https://github.com/Ulduzpp/DIP/blob/main/Images/photo_2023-08-15_01-32-55.jpg)
 
 
 ```python
